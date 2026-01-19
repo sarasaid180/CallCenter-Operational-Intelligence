@@ -46,7 +46,6 @@ CREATE TABLE Calls (
     HoldTime       INT,
     IsResolved     INT, -- 0: No, 1: Yes
     CallReason     VARCHAR(100),
-    CONSTRAINT FK_AgentID FOREIGN KEY (AgentID) REFERENCES Agents(AgentID)
 );
 GO
 
@@ -58,6 +57,5 @@ CREATE TABLE Surveys (
     CallID         INT,
     CSAT_Score     INT,
     FeedbackText   VARCHAR(MAX),
-    CONSTRAINT FK_CallID FOREIGN KEY (CallID) REFERENCES Calls(CallID)
 );
 GO
