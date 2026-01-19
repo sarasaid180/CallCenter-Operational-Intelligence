@@ -15,16 +15,11 @@ USE CallCenterDB;
 GO
 
 -- =============================================================
--- 1. DROP EXISTING TABLES (Correct Dependency Order)
+-- 2. CREATE AGENTS TABLE
 -- =============================================================
-IF OBJECT_ID('dbo.Surveys', 'U') IS NOT NULL DROP TABLE dbo.Surveys;
-IF OBJECT_ID('dbo.Calls',   'U') IS NOT NULL DROP TABLE dbo.Calls;
 IF OBJECT_ID('dbo.Agents',  'U') IS NOT NULL DROP TABLE dbo.Agents;
 GO
 
--- =============================================================
--- 2. CREATE AGENTS TABLE
--- =============================================================
 CREATE TABLE Agents (
     AgentID        INT PRIMARY KEY,
     Name           VARCHAR(100),
@@ -37,6 +32,9 @@ GO
 -- =============================================================
 -- 3. CREATE CALLS TABLE
 -- =============================================================
+IF OBJECT_ID('dbo.Calls',   'U') IS NOT NULL DROP TABLE dbo.Calls;
+GO
+
 CREATE TABLE Calls (
     CallID         INT PRIMARY KEY,
     AgentID        INT,
@@ -52,6 +50,9 @@ GO
 -- =============================================================
 -- 4. CREATE SURVEYS TABLE
 -- =============================================================
+IF OBJECT_ID('dbo.Surveys', 'U') IS NOT NULL DROP TABLE dbo.Surveys;
+GO
+
 CREATE TABLE Surveys (
     SurveyID       INT PRIMARY KEY,
     CallID         INT,
