@@ -40,7 +40,7 @@ for i in range(num_calls):
     agent = random.choice(agents)
     reason = random.choice(reasons)
 
-    # NEW: Wider date range (730 days = 2 years)
+    #Wide date range (730 days = 2 years)
     call_date = start_date_range + timedelta(days=random.randint(0, 729), hours=random.randint(8, 20))
 
     # Base Logic
@@ -105,3 +105,4 @@ df_calls.to_csv('calls_data.csv', index=False)
 pd.DataFrame(surveys).to_csv('surveys_data.csv', index=False)
 
 print("Project Data is Generated!")
+
