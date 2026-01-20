@@ -1,0 +1,81 @@
+AgentID,Name,Queue,Tenure_Months,HourlyRate
+100,Jennifer Williams,General,41,18
+101,Jennifer Johnson,Tech Support,17,20
+102,Michael Williams,General,1,28
+103,James Smith,Billing,35,23
+104,Elizabeth Garcia,Tech Support,13,23
+105,Mary Garcia,Tech Support,23,19
+106,Robert Williams,Claims,26,19
+107,Mary Jones,Tech Support,38,28
+108,Elizabeth Davis,General,44,25
+109,John Martinez,Tech Support,46,25
+110,Patricia Miller,Tech Support,13,28
+111,Elizabeth Williams,General,42,23
+112,Robert Jones,General,42,20
+113,Linda Smith,Claims,13,25
+114,Jennifer Davis,General,19,19
+115,Robert Miller,Claims,21,27
+116,Jennifer Garcia,Claims,23,22
+117,Linda Garcia,General,33,23
+118,Michael Smith,Claims,12,27
+119,Jennifer Rodriguez,General,34,22
+120,Elizabeth Smith,Billing,12,23
+121,Elizabeth Miller,General,38,25
+122,Linda Jones,Billing,21,18
+123,Jennifer Smith,Claims,47,25
+124,Michael Brown,Billing,38,28
+125,Jennifer Miller,Billing,31,20
+126,Linda Martinez,Tech Support,7,18
+127,James Miller,Claims,18,22
+128,James Garcia,Billing,15,20
+129,Patricia Garcia,Tech Support,36,21
+130,John Garcia,Tech Support,39,18
+131,Michael Rodriguez,Billing,2,27
+132,Elizabeth Jones,Claims,35,25
+133,Patricia Rodriguez,Tech Support,34,26
+134,Linda Miller,Billing,3,20
+135,Mary Williams,Billing,5,27
+136,David Davis,Tech Support,10,20
+137,James Williams,General,22,21
+138,Elizabeth Martinez,Tech Support,29,25
+139,Linda Johnson,Billing,36,20
+140,Patricia Brown,Claims,5,27
+141,Elizabeth Rodriguez,Claims,29,19
+142,Michael Martinez,Billing,45,21
+143,John Brown,General,32,21
+144,David Martinez,General,22,27
+145,John Williams,General,16,20
+146,Mary Davis,Claims,22,22
+147,Patricia Williams,Tech Support,43,22
+148,Jennifer Brown,Claims,1,21
+149,Mary Miller,General,30,27
+150,John Johnson,Claims,22,26
+151,David Brown,Tech Support,13,27
+152,Patricia Johnson,Tech Support,7,19
+153,Mary Brown,Billing,44,28
+154,Jennifer Martinez,Billing,45,27
+155,Michael Miller,Billing,31,18
+156,Robert Garcia,Claims,43,24
+157,James Jones,General,27,21
+158,Elizabeth Brown,Billing,33,23
+159,Michael Johnson,General,10,22
+160,John Miller,Tech Support,41,28
+161,James Brown,Billing,2,27
+162,James Johnson,Tech Support,4,22
+163,Patricia Martinez,Tech Support,42,19
+164,David Johnson,Claims,34,27
+165,Robert Brown,Claims,6,24
+166,John Davis,General,47,23
+167,Michael Davis,Billing,18,22
+168,David Jones,Billing,18,26
+169,James Rodriguez,Tech Support,19,18
+170,Mary Johnson,General,6,26
+171,Robert Martinez,General,25,21
+172,Mary Rodriguez,Tech Support,46,20
+173,Patricia Jones,Claims,33,21
+174,John Smith,Tech Support,43,20
+175,John Jones,Tech Support,36,23
+176,Robert Rodriguez,General,27,28
+177,David Smith,Billing,29,19
+178,Linda Brown,Billing,11,20
+179,Patricia Smith,General,7,24
