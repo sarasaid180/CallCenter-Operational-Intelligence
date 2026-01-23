@@ -79,7 +79,7 @@ SELECT
         WHEN HourlyRate BETWEEN 18 AND 21 THEN 'Tier 1'
         WHEN HourlyRate BETWEEN 22 AND 25 THEN 'Tier 2'
         WHEN HourlyRate BETWEEN 26 AND 28 THEN 'Tier 3'
-        ELSE 'Other'
+        ELSE 'Tier 4'
     END AS Pay_Tier,
 
     -- Final Metric Formatting
