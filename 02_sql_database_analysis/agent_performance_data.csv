@@ -1,0 +1,481 @@
+﻿AgentID,Name,Queue,CallReason,Total_Calls,Experience_Level,Pay_Tier,Agent_AHT,Agent_FCR,Agent_RCR,Agent_Avg_CSAT,Final_Efficiency_Score
+143,John Brown,General,Account Access,22,Veteran,Tier 1,7.59,81.82,18.18,4.33,88.43
+126,Linda Martinez,Tech Support,Account Access,26,Developing,Tier 1,7.82,80.77,19.23,4,84.72
+174,John Smith,Tech Support,Account Access,21,Veteran,Tier 1,8.59,76.19,23.81,4,81.06
+117,Linda Garcia,General,Account Access,20,Veteran,Tier 2,7.81,80,20,4.1,85.25
+157,James Jones,General,Account Access,13,Veteran,Tier 1,7.14,69.23,30.77,4,82.06
+100,Jennifer Williams,General,Account Access,18,Veteran,Tier 1,7.83,83.33,16.67,4,85.72
+138,Elizabeth Martinez,Tech Support,Account Access,17,Veteran,Tier 2,6.96,94.12,5.88,4,92.58
+169,James Rodriguez,Tech Support,Account Access,20,Proficient,Tier 1,7.88,85,15,4.1,87.06
+112,Robert Jones,General,Account Access,30,Veteran,Tier 1,8,80,20,3.5,79.97
+155,Michael Miller,Billing,Account Access,26,Veteran,Tier 1,8.04,84.62,15.38,4.27,87.88
+136,David Davis,Tech Support,Account Access,22,Developing,Tier 1,7.46,63.64,36.36,3.11,71.73
+164,David Johnson,Claims,Account Access,24,Veteran,Tier 3,7.9,83.33,16.67,3.92,84.94
+124,Michael Brown,Billing,Account Access,11,Veteran,Tier 3,8.02,72.73,27.27,3.83,79.67
+107,Mary Jones,Tech Support,Account Access,16,Veteran,Tier 3,7.6,81.25,18.75,3.8,83.91
+176,Robert Rodriguez,General,Account Access,21,Veteran,Tier 3,8.24,90.48,9.52,3.67,84.91
+150,John Johnson,Claims,Account Access,24,Proficient,Tier 3,7.7,79.17,20.83,3.3,78.82
+131,Michael Rodriguez,Billing,Account Access,12,Nesting,Tier 3,9.72,58.33,41.67,3.75,69.75
+119,Jennifer Rodriguez,General,Account Access,22,Veteran,Tier 2,7.23,81.82,18.18,3.75,84.81
+162,James Johnson,Tech Support,Account Access,22,Developing,Tier 2,7.6,90.91,9.09,3.83,88.04
+145,John Williams,General,Account Access,24,Proficient,Tier 1,7.95,79.17,20.83,4.21,85.45
+105,Mary Garcia,Tech Support,Account Access,20,Proficient,Tier 1,7.82,75,25,3.9,81.61
+166,John Davis,General,Account Access,15,Veteran,Tier 2,7.45,93.33,6.67,4.25,92.75
+154,Jennifer Martinez,Billing,Account Access,15,Veteran,Tier 3,8.59,93.33,6.67,4.29,90.2
+114,Jennifer Davis,General,Account Access,21,Proficient,Tier 1,7.95,76.19,23.81,3.78,80.79
+140,Patricia Brown,Claims,Account Access,17,Developing,Tier 3,7.84,94.12,5.88,4.25,92.01
+178,Linda Brown,Billing,Account Access,15,Developing,Tier 1,7.81,80,20,4,84.46
+121,Elizabeth Miller,General,Account Access,23,Veteran,Tier 2,7.74,95.65,4.35,4.2,92.49
+109,John Martinez,Tech Support,Account Access,25,Veteran,Tier 2,8.3,92,8,4.22,89.82
+152,Patricia Johnson,Tech Support,Account Access,13,Developing,Tier 1,8.21,84.62,15.38,4.5,89.3
+135,Mary Williams,Billing,Account Access,19,Developing,Tier 3,7.91,78.95,21.05,3.82,82.3
+173,Patricia Jones,Claims,Account Access,18,Veteran,Tier 1,8.06,100,0,4.2,93.42
+133,Patricia Rodriguez,Tech Support,Account Access,16,Veteran,Tier 3,8.67,68.75,31.25,4.57,82.49
+116,Jennifer Garcia,Claims,Account Access,30,Proficient,Tier 2,8.13,86.67,13.33,4.33,88.99
+147,Patricia Williams,Tech Support,Account Access,19,Veteran,Tier 2,7.65,89.47,10.53,4.14,89.81
+128,James Garcia,Billing,Account Access,20,Proficient,Tier 1,7.97,90,10,4,88.03
+171,Robert Martinez,General,Account Access,28,Veteran,Tier 1,7.91,85.71,14.29,4,86.47
+159,Michael Johnson,General,Account Access,23,Developing,Tier 2,7.61,82.61,17.39,3.8,84.42
+102,Michael Williams,General,Account Access,22,Nesting,Tier 3,9.9,68.18,31.82,4.2,77
+163,Patricia Martinez,Tech Support,Account Access,22,Veteran,Tier 1,8.06,86.36,13.64,2.5,74.37
+123,Jennifer Smith,Claims,Account Access,27,Veteran,Tier 2,8.24,85.19,14.81,4,85.45
+106,Robert Williams,Claims,Account Access,18,Veteran,Tier 1,7.83,88.89,11.11,3.89,87.07
+137,James Williams,General,Account Access,17,Proficient,Tier 1,8.7,88.24,11.76,3.89,84.75
+175,John Jones,Tech Support,Account Access,21,Veteran,Tier 2,8.14,80.95,19.05,3.5,79.99
+118,Michael Smith,Claims,Account Access,13,Developing,Tier 3,7.76,76.92,23.08,4.75,89.34
+161,James Brown,Billing,Account Access,21,Nesting,Tier 3,9.1,80.95,19.05,3.57,78.5
+149,Mary Miller,General,Account Access,15,Veteran,Tier 3,7.22,80,20,3.38,81.11
+132,Elizabeth Jones,Claims,Account Access,8,Veteran,Tier 2,8.13,75,25,4.75,87.65
+170,Mary Johnson,General,Account Access,26,Developing,Tier 3,7.51,73.08,26.92,3.9,81.69
+113,Linda Smith,Claims,Account Access,22,Proficient,Tier 2,7.55,90.91,9.09,4,89.52
+156,Robert Garcia,Claims,Account Access,14,Veteran,Tier 2,8,71.43,28.57,3.8,78.94
+144,David Martinez,General,Account Access,19,Proficient,Tier 3,8.01,57.89,42.11,2.83,65.75
+104,Elizabeth Garcia,Tech Support,Account Access,19,Proficient,Tier 2,7.55,84.21,15.79,4,86.82
+130,John Garcia,Tech Support,Account Access,16,Veteran,Tier 1,8.02,75,25,3.17,75.25
+168,David Jones,Billing,Account Access,23,Proficient,Tier 3,7.79,82.61,17.39,4.33,88.2
+111,Elizabeth Williams,General,Account Access,12,Veteran,Tier 2,8.73,91.67,8.33,4.25,88.95
+151,David Brown,Tech Support,Account Access,16,Proficient,Tier 3,7.5,75,25,3.71,81.02
+142,Michael Martinez,Billing,Account Access,18,Veteran,Tier 1,7.58,88.89,11.11,3.8,87.03
+125,Jennifer Miller,Billing,Account Access,16,Veteran,Tier 1,7.37,87.5,12.5,4.5,92.66
+160,John Miller,Tech Support,Account Access,11,Veteran,Tier 3,8.44,81.82,18.18,4.67,88.98
+103,James Smith,Billing,Account Access,16,Veteran,Tier 2,7.54,81.25,18.75,4.14,86.81
+146,Mary Davis,Claims,Account Access,20,Proficient,Tier 2,8.24,75,25,3.55,77.75
+134,Linda Miller,Billing,Account Access,21,Nesting,Tier 1,9.53,80.95,19.05,4.14,82.28
+177,David Smith,Billing,Account Access,26,Veteran,Tier 1,8.1,80.77,19.23,3.8,82.41
+120,Elizabeth Smith,Billing,Account Access,21,Developing,Tier 2,7.62,90.48,9.52,4.3,91.53
+158,Elizabeth Brown,Billing,Account Access,21,Veteran,Tier 2,7.17,85.71,14.29,4.5,92.56
+101,Jennifer Johnson,Tech Support,Account Access,24,Proficient,Tier 1,8.38,91.67,8.33,4.5,91.71
+141,Elizabeth Rodriguez,Claims,Account Access,16,Veteran,Tier 1,8.42,87.5,12.5,3.57,82.54
+129,Patricia Garcia,Tech Support,Account Access,25,Veteran,Tier 1,7.98,72,28,3.13,73.81
+172,Mary Rodriguez,Tech Support,Account Access,21,Veteran,Tier 1,8.06,90.48,9.52,4.3,90.41
+115,Robert Miller,Claims,Account Access,15,Proficient,Tier 3,7.65,93.33,6.67,4.67,95.53
+153,Mary Brown,Billing,Account Access,19,Veteran,Tier 3,8.35,94.74,5.26,4.22,90.79
+167,Michael Davis,Billing,Account Access,26,Proficient,Tier 2,8.24,84.62,15.38,4.18,86.67
+127,James Miller,Claims,Account Access,19,Proficient,Tier 2,7.84,89.47,10.53,4.38,91.16
+110,Patricia Miller,Tech Support,Account Access,21,Proficient,Tier 3,7.62,66.67,33.33,3.14,72.77
+165,Robert Brown,Claims,Account Access,27,Developing,Tier 2,7.58,96.3,3.7,4.67,96.92
+148,Jennifer Brown,Claims,Account Access,13,Nesting,Tier 1,9.82,92.31,7.69,4.67,90.52
+108,Elizabeth Davis,General,Account Access,15,Veteran,Tier 2,7.61,80,20,4.29,87.26
+139,Linda Johnson,Billing,Account Access,18,Veteran,Tier 1,7.67,94.44,5.56,4.67,95.92
+179,Patricia Smith,General,Account Access,24,Developing,Tier 2,8.05,87.5,12.5,4.14,87.97
+122,Linda Jones,Billing,Account Access,19,Proficient,Tier 1,7.36,84.21,15.79,3.89,86.49
+101,Jennifer Johnson,Tech Support,Billing Query,18,Proficient,Tier 1,7.17,100,0,4.63,99.34
+158,Elizabeth Brown,Billing,Billing Query,22,Veteran,Tier 2,7.85,95.45,4.55,4.55,94.95
+118,Michael Smith,Claims,Billing Query,17,Developing,Tier 3,7.37,82.35,17.65,4.38,89.68
+175,John Jones,Tech Support,Billing Query,26,Veteran,Tier 2,7.38,92.31,7.69,4.2,92.24
+144,David Martinez,General,Billing Query,16,Proficient,Tier 3,8.03,75,25,3.78,80.17
+146,Mary Davis,Claims,Billing Query,17,Proficient,Tier 2,8.53,76.47,23.53,4.33,84.06
+163,Patricia Martinez,Tech Support,Billing Query,16,Veteran,Tier 1,8.76,93.75,6.25,4.67,93.14
+106,Robert Williams,Claims,Billing Query,15,Veteran,Tier 1,8.29,100,0,4.5,95.33
+151,David Brown,Tech Support,Billing Query,20,Proficient,Tier 3,7.65,100,0,4.56,97.4
+132,Elizabeth Jones,Claims,Billing Query,19,Veteran,Tier 2,8.67,94.74,5.26,4.33,91.05
+165,Robert Brown,Claims,Billing Query,16,Developing,Tier 2,7.1,87.5,12.5,4.5,93.57
+177,David Smith,Billing,Billing Query,24,Veteran,Tier 1,8.06,79.17,20.83,4,83.54
+137,James Williams,General,Billing Query,23,Proficient,Tier 1,8.05,91.3,8.7,4.8,94.84
+120,Elizabeth Smith,Billing,Billing Query,21,Developing,Tier 2,8.54,85.71,14.29,4.17,86.39
+156,Robert Garcia,Claims,Billing Query,21,Veteran,Tier 2,7.94,76.19,23.81,4.13,83.67
+113,Linda Smith,Claims,Billing Query,22,Proficient,Tier 2,7.41,81.82,18.18,3.75,84.37
+170,Mary Johnson,General,Billing Query,25,Developing,Tier 3,7.95,80,20,3.43,79.59
+125,Jennifer Miller,Billing,Billing Query,21,Veteran,Tier 1,7.77,85.71,14.29,4,86.91
+161,James Brown,Billing,Billing Query,25,Nesting,Tier 3,9.59,76,24,2.8,69.52
+139,Linda Johnson,Billing,Billing Query,19,Veteran,Tier 1,8.21,89.47,10.53,4.57,91.88
+130,John Garcia,Tech Support,Billing Query,19,Veteran,Tier 1,7.75,100,0,4.88,99.68
+178,Linda Brown,Billing,Billing Query,16,Developing,Tier 1,7.36,100,0,4.43,97.2
+121,Elizabeth Miller,General,Billing Query,26,Veteran,Tier 2,8.23,88.46,11.54,4.15,88.1
+147,Patricia Williams,Tech Support,Billing Query,33,Veteran,Tier 2,7.8,69.7,30.3,3.21,74.14
+104,Elizabeth Garcia,Tech Support,Billing Query,12,Proficient,Tier 2,8.43,75,25,1,57.02
+166,John Davis,General,Billing Query,26,Veteran,Tier 2,7.59,92.31,7.69,4.38,93.05
+135,Mary Williams,Billing,Billing Query,13,Developing,Tier 3,8.72,84.62,15.38,4.8,90.62
+149,Mary Miller,General,Billing Query,16,Veteran,Tier 3,8.03,68.75,31.25,3.5,75.45
+123,Jennifer Smith,Claims,Billing Query,19,Veteran,Tier 2,8.1,78.95,21.05,3.8,81.76
+109,John Martinez,Tech Support,Billing Query,20,Veteran,Tier 2,7.87,85,15,4,86.37
+140,Patricia Brown,Claims,Billing Query,19,Developing,Tier 3,7.08,84.21,15.79,3.8,86.73
+168,David Jones,Billing,Billing Query,29,Proficient,Tier 3,8.33,75.86,24.14,4,81.59
+128,James Garcia,Billing,Billing Query,17,Proficient,Tier 1,7.21,88.24,11.76,4.13,90.52
+111,Elizabeth Williams,General,Billing Query,18,Veteran,Tier 2,7.82,83.33,16.67,3.88,84.84
+154,Jennifer Martinez,Billing,Billing Query,29,Veteran,Tier 3,7.61,82.76,17.24,3.91,85.44
+173,Patricia Jones,Claims,Billing Query,15,Veteran,Tier 1,7.92,86.67,13.33,4,86.91
+116,Jennifer Garcia,Claims,Billing Query,30,Proficient,Tier 2,7.56,86.67,13.33,4.1,88.67
+142,Michael Martinez,Billing,Billing Query,19,Veteran,Tier 1,7.47,84.21,15.79,4.38,90.14
+159,Michael Johnson,General,Billing Query,21,Developing,Tier 2,7.85,80.95,19.05,4.29,87.08
+102,Michael Williams,General,Billing Query,14,Nesting,Tier 3,9.74,78.57,21.43,3.57,76.45
+138,Elizabeth Martinez,Tech Support,Billing Query,20,Veteran,Tier 2,7.51,85,15,4.18,88.79
+124,Michael Brown,Billing,Billing Query,15,Veteran,Tier 3,8.03,93.33,6.67,4.25,91.3
+107,Mary Jones,Tech Support,Billing Query,18,Veteran,Tier 3,7.56,94.44,5.56,4,90.97
+150,John Johnson,Claims,Billing Query,19,Proficient,Tier 3,7.83,84.21,15.79,4.11,87.03
+164,David Johnson,Claims,Billing Query,23,Veteran,Tier 3,8.12,82.61,17.39,3.67,82.12
+143,John Brown,General,Billing Query,16,Veteran,Tier 1,7.97,68.75,31.25,4.2,81.22
+126,Linda Martinez,Tech Support,Billing Query,31,Developing,Tier 1,7.8,74.19,25.81,3,74.24
+152,Patricia Johnson,Tech Support,Billing Query,26,Developing,Tier 1,8.49,76.92,23.08,3.73,79.47
+131,Michael Rodriguez,Billing,Billing Query,18,Nesting,Tier 3,10.48,72.22,27.78,3.63,73.18
+112,Robert Jones,General,Billing Query,23,Veteran,Tier 1,8.27,86.96,13.04,4.1,86.96
+171,Robert Martinez,General,Billing Query,17,Veteran,Tier 1,8.1,82.35,17.65,4,84.72
+169,James Rodriguez,Tech Support,Billing Query,26,Proficient,Tier 1,8.52,84.62,15.38,4.4,87.86
+157,James Jones,General,Billing Query,22,Veteran,Tier 1,8.05,77.27,22.73,3.88,81.81
+100,Jennifer Williams,General,Billing Query,21,Veteran,Tier 1,8.51,80.95,19.05,4.1,84.02
+176,Robert Rodriguez,General,Billing Query,29,Veteran,Tier 3,7.91,93.1,6.9,4.29,91.79
+114,Jennifer Davis,General,Billing Query,21,Proficient,Tier 1,8.01,85.71,14.29,4.5,90.31
+133,Patricia Rodriguez,Tech Support,Billing Query,22,Veteran,Tier 3,7.87,86.36,13.64,4.29,89.2
+105,Mary Garcia,Tech Support,Billing Query,17,Proficient,Tier 1,7.73,88.24,11.76,4.83,94.69
+145,John Williams,General,Billing Query,13,Proficient,Tier 1,7.16,84.62,15.38,3.6,85.04
+162,James Johnson,Tech Support,Billing Query,20,Developing,Tier 2,8.15,85,15,3.86,84.53
+141,Elizabeth Rodriguez,Claims,Billing Query,19,Veteran,Tier 1,7.76,73.68,26.32,3.67,79.46
+119,Jennifer Rodriguez,General,Billing Query,18,Veteran,Tier 2,8.46,77.78,22.22,2.67,71.4
+167,Michael Davis,Billing,Billing Query,12,Proficient,Tier 2,7.74,83.33,16.67,3.8,84.44
+110,Patricia Miller,Tech Support,Billing Query,15,Proficient,Tier 3,8.25,66.67,33.33,3.5,74.1
+115,Robert Miller,Claims,Billing Query,24,Proficient,Tier 3,7.75,83.33,16.67,4.08,86.63
+127,James Miller,Claims,Billing Query,26,Proficient,Tier 2,7.71,88.46,11.54,4.3,90.58
+103,James Smith,Billing,Billing Query,23,Veteran,Tier 2,7.9,78.26,21.74,3.18,77.05
+172,Mary Rodriguez,Tech Support,Billing Query,23,Veteran,Tier 1,8.14,91.3,8.7,4.45,91.85
+155,Michael Miller,Billing,Billing Query,19,Veteran,Tier 1,7.3,94.74,5.26,4.5,95.86
+129,Patricia Garcia,Tech Support,Billing Query,18,Veteran,Tier 1,8.22,77.78,22.22,3.57,79.19
+148,Jennifer Brown,Claims,Billing Query,20,Nesting,Tier 1,9.55,80,20,3.8,79.18
+108,Elizabeth Davis,General,Billing Query,18,Veteran,Tier 2,8.55,83.33,16.67,3.78,82.31
+160,John Miller,Tech Support,Billing Query,27,Veteran,Tier 3,7.51,85.19,14.81,4.6,92.2
+134,Linda Miller,Billing,Billing Query,23,Nesting,Tier 1,9.82,86.96,13.04,4.44,86.65
+117,Linda Garcia,General,Billing Query,22,Veteran,Tier 2,7.55,86.36,13.64,4,87.76
+174,John Smith,Tech Support,Billing Query,30,Veteran,Tier 1,7.49,90,10,4.27,91.59
+122,Linda Jones,Billing,Billing Query,23,Proficient,Tier 1,7.31,86.96,13.04,4,88.72
+153,Mary Brown,Billing,Billing Query,27,Veteran,Tier 3,7.77,85.19,14.81,4,86.7
+136,David Davis,Tech Support,Billing Query,22,Developing,Tier 1,7.5,81.82,18.18,3.8,84.5
+179,Patricia Smith,General,Billing Query,24,Developing,Tier 2,8.01,95.83,4.17,4.36,93.26
+100,Jennifer Williams,General,Cancel Service,19,Veteran,Tier 1,7.89,94.74,5.26,4.75,96.18
+143,John Brown,General,Cancel Service,17,Veteran,Tier 1,8.23,82.35,17.65,3.63,81.39
+126,Linda Martinez,Tech Support,Cancel Service,26,Developing,Tier 1,7.45,92.31,7.69,4.6,95.2
+169,James Rodriguez,Tech Support,Cancel Service,14,Proficient,Tier 1,8.19,85.71,14.29,4,85.82
+112,Robert Jones,General,Cancel Service,28,Veteran,Tier 1,7.87,82.14,17.86,3.58,81.86
+152,Patricia Johnson,Tech Support,Cancel Service,24,Developing,Tier 1,7.91,91.67,8.33,4.5,92.89
+145,John Williams,General,Cancel Service,21,Proficient,Tier 1,8.65,95.24,4.76,4.11,89.48
+105,Mary Garcia,Tech Support,Cancel Service,26,Proficient,Tier 1,7.82,84.62,15.38,3.88,85.31
+131,Michael Rodriguez,Billing,Cancel Service,20,Nesting,Tier 3,9.22,85,15,4.08,84.02
+171,Robert Martinez,General,Cancel Service,23,Veteran,Tier 1,8.11,95.65,4.35,4.44,93.54
+114,Jennifer Davis,General,Cancel Service,22,Proficient,Tier 1,7.79,77.27,22.73,3.4,78.65
+157,James Jones,General,Cancel Service,28,Veteran,Tier 1,7.93,92.86,7.14,4.18,90.78
+150,John Johnson,Claims,Cancel Service,20,Proficient,Tier 3,7.25,95,5,4.5,96.08
+133,Patricia Rodriguez,Tech Support,Cancel Service,19,Veteran,Tier 3,7.61,84.21,15.79,4.4,89.91
+176,Robert Rodriguez,General,Cancel Service,21,Veteran,Tier 3,8.08,95.24,4.76,4.5,93.9
+119,Jennifer Rodriguez,General,Cancel Service,25,Veteran,Tier 2,8.21,92,8,4,88.28
+162,James Johnson,Tech Support,Cancel Service,15,Developing,Tier 2,8.97,80,20,3.83,80.51
+138,Elizabeth Martinez,Tech Support,Cancel Service,26,Veteran,Tier 2,7.89,76.92,23.08,4.23,84.9
+140,Patricia Brown,Claims,Cancel Service,18,Developing,Tier 3,8.11,72.22,27.78,3.43,76.04
+164,David Johnson,Claims,Cancel Service,22,Veteran,Tier 3,8.18,95.45,4.55,3.83,88.4
+124,Michael Brown,Billing,Cancel Service,28,Veteran,Tier 3,7.7,85.71,14.29,4.71,92.77
+123,Jennifer Smith,Claims,Cancel Service,25,Veteran,Tier 2,7.2,84,16,4.07,88.38
+107,Mary Jones,Tech Support,Cancel Service,9,Veteran,Tier 3,7.64,88.89,11.11,4.5,92.51
+149,Mary Miller,General,Cancel Service,21,Veteran,Tier 3,8.37,85.71,14.29,4.22,87.17
+166,John Davis,General,Cancel Service,20,Veteran,Tier 2,8.24,85,15,3.5,81.41
+109,John Martinez,Tech Support,Cancel Service,28,Veteran,Tier 2,8.04,78.57,21.43,3.3,77.72
+128,James Garcia,Billing,Cancel Service,22,Proficient,Tier 1,7.77,90.91,9.09,4.33,91.63
+168,David Jones,Billing,Cancel Service,20,Proficient,Tier 3,7.44,85,15,4,87.5
+154,Jennifer Martinez,Billing,Cancel Service,22,Veteran,Tier 3,7.37,72.73,27.27,3.36,77.72
+116,Jennifer Garcia,Claims,Cancel Service,21,Proficient,Tier 2,8.4,90.48,9.52,4.5,91.23
+173,Patricia Jones,Claims,Cancel Service,20,Veteran,Tier 1,7.94,95,5,4.5,94.15
+102,Michael Williams,General,Cancel Service,21,Nesting,Tier 3,9.44,95.24,4.76,4.63,92.05
+142,Michael Martinez,Billing,Cancel Service,22,Veteran,Tier 1,7.89,86.36,13.64,3.86,85.68
+159,Michael Johnson,General,Cancel Service,24,Developing,Tier 2,8.08,83.33,16.67,4.27,87.32
+178,Linda Brown,Billing,Cancel Service,27,Developing,Tier 1,7.69,81.48,18.52,4.25,87.41
+121,Elizabeth Miller,General,Cancel Service,19,Veteran,Tier 2,8.7,84.21,15.79,3.43,79.5
+135,Mary Williams,Billing,Cancel Service,23,Developing,Tier 3,7.65,91.3,8.7,3.89,88.55
+104,Elizabeth Garcia,Tech Support,Cancel Service,25,Proficient,Tier 2,7.94,88,12,4.54,91.65
+161,James Brown,Billing,Cancel Service,19,Nesting,Tier 3,10.19,78.95,21.05,3.63,76.29
+120,Elizabeth Smith,Billing,Cancel Service,9,Developing,Tier 2,7.47,88.89,11.11,3.8,87.37
+147,Patricia Williams,Tech Support,Cancel Service,24,Veteran,Tier 2,7.69,87.5,12.5,4.5,91.81
+106,Robert Williams,Claims,Cancel Service,22,Veteran,Tier 1,7.79,81.82,18.18,4,85.27
+163,Patricia Martinez,Tech Support,Cancel Service,28,Veteran,Tier 1,8,82.14,17.86,4,84.86
+132,Elizabeth Jones,Claims,Cancel Service,18,Veteran,Tier 2,7.8,77.78,22.22,4.14,84.76
+125,Jennifer Miller,Billing,Cancel Service,30,Veteran,Tier 1,7.93,90,10,3.77,86.32
+111,Elizabeth Williams,General,Cancel Service,22,Veteran,Tier 2,7.62,90.91,9.09,4.5,93.37
+151,David Brown,Tech Support,Cancel Service,24,Proficient,Tier 3,7.65,83.33,16.67,3.86,85.11
+170,Mary Johnson,General,Cancel Service,19,Developing,Tier 3,7.33,78.95,21.05,4,85.42
+130,John Garcia,Tech Support,Cancel Service,27,Veteran,Tier 1,7.95,74.07,25.93,4,81.76
+177,David Smith,Billing,Cancel Service,22,Veteran,Tier 1,7.14,86.36,13.64,4,88.96
+137,James Williams,General,Cancel Service,17,Proficient,Tier 1,7.95,94.12,5.88,3.6,86.56
+139,Linda Johnson,Billing,Cancel Service,25,Veteran,Tier 1,8.32,96,4,3.9,88.83
+156,Robert Garcia,Claims,Cancel Service,21,Veteran,Tier 2,7.84,80.95,19.05,4,84.78
+113,Linda Smith,Claims,Cancel Service,23,Proficient,Tier 2,7.94,86.96,13.04,4.14,88.08
+118,Michael Smith,Claims,Cancel Service,20,Developing,Tier 3,7.91,90,10,4.22,90
+101,Jennifer Johnson,Tech Support,Cancel Service,22,Proficient,Tier 1,8.35,81.82,18.18,4.45,87.52
+175,John Jones,Tech Support,Cancel Service,30,Veteran,Tier 2,7.85,80,20,4,84.37
+158,Elizabeth Brown,Billing,Cancel Service,24,Veteran,Tier 2,7.95,91.67,8.33,4.67,94.12
+144,David Martinez,General,Cancel Service,18,Proficient,Tier 3,7.94,83.33,16.67,3.43,80.91
+129,Patricia Garcia,Tech Support,Cancel Service,26,Veteran,Tier 1,7.79,96.15,3.85,4.57,95.56
+146,Mary Davis,Claims,Cancel Service,14,Proficient,Tier 2,7.66,78.57,21.43,4.5,88.32
+160,John Miller,Tech Support,Cancel Service,18,Veteran,Tier 3,7.65,72.22,27.78,4,81.81
+103,James Smith,Billing,Cancel Service,15,Veteran,Tier 2,7.26,86.67,13.33,4.25,90.71
+148,Jennifer Brown,Claims,Cancel Service,26,Nesting,Tier 1,9.45,96.15,3.85,4.56,91.83
+165,Robert Brown,Claims,Cancel Service,22,Developing,Tier 2,7.91,90.91,9.09,4.25,90.59
+172,Mary Rodriguez,Tech Support,Cancel Service,22,Veteran,Tier 1,7.83,95.45,4.55,4.5,94.62
+108,Elizabeth Davis,General,Cancel Service,32,Veteran,Tier 2,7.81,75,25,3.82,81.04
+134,Linda Miller,Billing,Cancel Service,18,Nesting,Tier 1,10.53,88.89,11.11,3.17,76.08
+174,John Smith,Tech Support,Cancel Service,18,Veteran,Tier 1,8.17,94.44,5.56,4.43,92.79
+153,Mary Brown,Billing,Cancel Service,21,Veteran,Tier 3,7.4,76.19,23.81,4.3,86.49
+110,Patricia Miller,Tech Support,Cancel Service,20,Proficient,Tier 3,7.48,75,25,4.25,85.38
+117,Linda Garcia,General,Cancel Service,20,Veteran,Tier 2,8.27,90,10,4.43,90.77
+136,David Davis,Tech Support,Cancel Service,23,Developing,Tier 1,7.7,82.61,17.39,3.67,83.15
+115,Robert Miller,Claims,Cancel Service,24,Proficient,Tier 3,8.2,75,25,3.8,79.92
+122,Linda Jones,Billing,Cancel Service,21,Proficient,Tier 1,8.14,100,0,4.33,94.31
+179,Patricia Smith,General,Cancel Service,19,Developing,Tier 2,8.12,100,0,4.6,96.51
+155,Michael Miller,Billing,Cancel Service,28,Veteran,Tier 1,7.9,85.71,14.29,4.2,88.13
+141,Elizabeth Rodriguez,Claims,Cancel Service,21,Veteran,Tier 1,7.78,100,0,4.71,98.27
+167,Michael Davis,Billing,Cancel Service,18,Proficient,Tier 2,8.24,88.89,11.11,4.6,91.78
+127,James Miller,Claims,Cancel Service,25,Proficient,Tier 2,7.19,88,12,4.31,91.94
+175,John Jones,Tech Support,General Account Update,13,Veteran,Tier 2,14.94,30.77,69.23,3.67,61.56
+135,Mary Williams,Billing,General Account Update,25,Developing,Tier 3,15.38,20,80,1.55,39.72
+118,Michael Smith,Claims,General Account Update,20,Developing,Tier 3,14.05,15,85,2.33,45.86
+104,Elizabeth Garcia,Tech Support,General Account Update,29,Proficient,Tier 2,14.24,41.38,58.62,2.67,58.79
+161,James Brown,Billing,General Account Update,17,Nesting,Tier 3,18.71,5.88,94.12,1.6,31.06
+147,Patricia Williams,Tech Support,General Account Update,13,Veteran,Tier 2,15.65,15.38,84.62,1.67,38.5
+173,Patricia Jones,Claims,General Account Update,19,Veteran,Tier 1,13.82,31.58,68.42,2.44,53.73
+130,John Garcia,Tech Support,General Account Update,16,Veteran,Tier 1,16.18,18.75,81.25,2.25,43.89
+142,Michael Martinez,Billing,General Account Update,27,Veteran,Tier 1,14.46,25.93,74.07,2.31,49.42
+116,Jennifer Garcia,Claims,General Account Update,22,Proficient,Tier 2,16.32,36.36,63.64,1.73,46.6
+156,Robert Garcia,Claims,General Account Update,21,Veteran,Tier 2,15.35,9.52,90.48,1.5,35.2
+128,James Garcia,Billing,General Account Update,18,Proficient,Tier 1,14.46,22.22,77.78,2.38,48.47
+168,David Jones,Billing,General Account Update,22,Proficient,Tier 3,14.71,31.82,68.18,1.44,44.52
+111,Elizabeth Williams,General,General Account Update,26,Veteran,Tier 2,15.26,26.92,73.08,2.2,47.87
+154,Jennifer Martinez,Billing,General Account Update,21,Veteran,Tier 3,12.95,42.86,57.14,3,64.13
+137,James Williams,General,General Account Update,24,Proficient,Tier 1,13.71,33.33,66.67,2.3,53.45
+166,John Davis,General,General Account Update,21,Veteran,Tier 2,13.87,28.57,71.43,2,48.9
+109,John Martinez,Tech Support,General Account Update,22,Veteran,Tier 2,14.51,27.27,72.73,2.33,50.09
+149,Mary Miller,General,General Account Update,25,Veteran,Tier 3,13.52,44,56,3.29,65.9
+123,Jennifer Smith,Claims,General Account Update,18,Veteran,Tier 2,13.33,38.89,61.11,2.17,55.23
+172,Mary Rodriguez,Tech Support,General Account Update,15,Veteran,Tier 1,12.41,26.67,73.33,2.25,52.66
+115,Robert Miller,Claims,General Account Update,11,Proficient,Tier 3,17.33,27.27,72.73,2,44.09
+101,Jennifer Johnson,Tech Support,General Account Update,24,Proficient,Tier 1,15.46,29.17,70.83,2.44,50.48
+158,Elizabeth Brown,Billing,General Account Update,20,Veteran,Tier 2,13.45,15,85,1.88,43.13
+144,David Martinez,General,General Account Update,23,Proficient,Tier 3,16.74,26.09,73.91,2.29,46.51
+127,James Miller,Claims,General Account Update,29,Proficient,Tier 2,14.62,20.69,79.31,1.3,39.03
+153,Mary Brown,Billing,General Account Update,14,Veteran,Tier 3,15.46,28.57,71.43,2.33,49.35
+113,Linda Smith,Claims,General Account Update,25,Proficient,Tier 2,13.77,16,84,2,44.01
+170,Mary Johnson,General,General Account Update,21,Developing,Tier 3,15.52,33.33,66.67,2.83,55.18
+139,Linda Johnson,Billing,General Account Update,17,Veteran,Tier 1,13.33,35.29,64.71,1.8,50.85
+151,David Brown,Tech Support,General Account Update,27,Proficient,Tier 3,12.94,22.22,77.78,1.91,47.17
+125,Jennifer Miller,Billing,General Account Update,23,Veteran,Tier 1,13.5,26.09,73.91,2.11,49.38
+165,Robert Brown,Claims,General Account Update,25,Developing,Tier 2,15.11,20,80,1.88,42.7
+108,Elizabeth Davis,General,General Account Update,24,Veteran,Tier 2,14.39,25,75,2.29,48.98
+134,Linda Miller,Billing,General Account Update,24,Nesting,Tier 1,17.1,20.83,79.17,2.36,44.65
+177,David Smith,Billing,General Account Update,24,Veteran,Tier 1,16.35,29.17,70.83,1.86,44.73
+120,Elizabeth Smith,Billing,General Account Update,15,Developing,Tier 2,14.47,33.33,66.67,2,49.91
+146,Mary Davis,Claims,General Account Update,16,Proficient,Tier 2,15.62,12.5,87.5,1,32.05
+106,Robert Williams,Claims,General Account Update,17,Veteran,Tier 1,13.93,11.76,88.24,1.6,38.87
+163,Patricia Martinez,Tech Support,General Account Update,22,Veteran,Tier 1,14.57,13.64,86.36,1.75,39.88
+132,Elizabeth Jones,Claims,General Account Update,22,Veteran,Tier 2,15.92,22.73,77.27,1.82,42.34
+155,Michael Miller,Billing,General Account Update,23,Veteran,Tier 1,15.31,17.39,82.61,2.14,43.55
+141,Elizabeth Rodriguez,Claims,General Account Update,19,Veteran,Tier 1,14.77,26.32,73.68,2.33,49.35
+124,Michael Brown,Billing,General Account Update,18,Veteran,Tier 3,15.64,22.22,77.78,1.5,39.92
+167,Michael Davis,Billing,General Account Update,27,Proficient,Tier 2,13.37,22.22,77.78,1.82,45.75
+110,Patricia Miller,Tech Support,General Account Update,20,Proficient,Tier 3,12.95,40,60,2.8,61.38
+150,John Johnson,Claims,General Account Update,20,Proficient,Tier 3,13.81,25,75,1.75,45.56
+179,Patricia Smith,General,General Account Update,23,Developing,Tier 2,14.96,30.43,69.57,3,56.07
+136,David Davis,Tech Support,General Account Update,22,Developing,Tier 1,16.32,22.73,77.27,2.56,47.78
+162,James Johnson,Tech Support,General Account Update,18,Developing,Tier 2,15.66,16.67,83.33,2.29,43.97
+122,Linda Jones,Billing,General Account Update,21,Proficient,Tier 1,15.85,23.81,76.19,2.67,49.63
+105,Mary Garcia,Tech Support,General Account Update,22,Proficient,Tier 1,13.77,27.27,72.73,2.43,51.96
+148,Jennifer Brown,Claims,General Account Update,18,Nesting,Tier 1,16.71,33.33,66.67,3,55.14
+160,John Miller,Tech Support,General Account Update,21,Veteran,Tier 3,15.23,23.81,76.19,1.88,44.07
+117,Linda Garcia,General,General Account Update,29,Veteran,Tier 2,15.4,20.69,79.31,2,43.6
+174,John Smith,Tech Support,General Account Update,20,Veteran,Tier 1,15.08,30,70,1.75,45.74
+143,John Brown,General,General Account Update,24,Veteran,Tier 1,13.72,16.67,83.33,2.2,45.96
+103,James Smith,Billing,General Account Update,23,Veteran,Tier 2,14.46,21.74,78.26,1.8,43.68
+129,Patricia Garcia,Tech Support,General Account Update,24,Veteran,Tier 1,15.07,20.83,79.17,1.63,41.09
+107,Mary Jones,Tech Support,General Account Update,23,Veteran,Tier 3,12.31,26.09,73.91,2.25,52.61
+178,Linda Brown,Billing,General Account Update,15,Developing,Tier 1,15.34,46.67,53.33,2.57,58.65
+138,Elizabeth Martinez,Tech Support,General Account Update,28,Veteran,Tier 2,15.02,35.71,64.29,3.11,59
+169,James Rodriguez,Tech Support,General Account Update,27,Proficient,Tier 1,13.67,18.52,81.48,1.79,43.46
+121,Elizabeth Miller,General,General Account Update,18,Veteran,Tier 2,16.5,22.22,77.78,1.6,39.74
+164,David Johnson,Claims,General Account Update,20,Veteran,Tier 3,16.61,15,85,1.83,38.59
+133,Patricia Rodriguez,Tech Support,General Account Update,15,Veteran,Tier 3,15.1,33.33,66.67,1.83,47.71
+176,Robert Rodriguez,General,General Account Update,32,Veteran,Tier 3,14.32,28.13,71.88,1.57,44.6
+159,Michael Johnson,General,General Account Update,16,Developing,Tier 2,14.61,37.5,62.5,1.25,45.38
+119,Jennifer Rodriguez,General,General Account Update,29,Veteran,Tier 2,14.4,6.9,93.1,1.36,34.33
+145,John Williams,General,General Account Update,23,Proficient,Tier 1,13.89,34.78,65.22,2.25,53.35
+102,Michael Williams,General,General Account Update,22,Nesting,Tier 3,18.59,27.27,72.73,1.14,36.07
+171,Robert Martinez,General,General Account Update,20,Veteran,Tier 1,15.73,15,85,2,40.93
+131,Michael Rodriguez,Billing,General Account Update,19,Nesting,Tier 3,18,31.58,68.42,3,53.17
+114,Jennifer Davis,General,General Account Update,15,Proficient,Tier 1,16.1,20,80,2.13,43.49
+157,James Jones,General,General Account Update,20,Veteran,Tier 1,15.09,15,85,1.83,40.39
+100,Jennifer Williams,General,General Account Update,24,Veteran,Tier 1,13.41,45.83,54.17,3.78,70.75
+140,Patricia Brown,Claims,General Account Update,17,Developing,Tier 3,14.8,11.76,88.24,1.44,36.38
+126,Linda Martinez,Tech Support,General Account Update,18,Developing,Tier 1,13.3,27.78,72.22,1.57,46.06
+112,Robert Jones,General,General Account Update,21,Veteran,Tier 1,14.62,14.29,85.71,1.7,39.68
+152,Patricia Johnson,Tech Support,General Account Update,24,Developing,Tier 1,13.79,33.33,66.67,2.88,57.93
+173,Patricia Jones,Claims,General Inquiry,23,Veteran,Tier 1,4.85,95.65,4.35,4.2,91.02
+133,Patricia Rodriguez,Tech Support,General Inquiry,21,Veteran,Tier 3,4.79,90.48,9.52,3.8,85.99
+116,Jennifer Garcia,Claims,General Inquiry,22,Proficient,Tier 2,4.73,90.91,9.09,4,88.02
+102,Michael Williams,General,General Inquiry,23,Nesting,Tier 3,5.35,100,0,4.44,92.95
+159,Michael Johnson,General,General Inquiry,23,Developing,Tier 2,4.31,95.65,4.35,4.63,96.82
+135,Mary Williams,Billing,General Inquiry,22,Developing,Tier 3,4.61,95.45,4.55,3.7,87.96
+121,Elizabeth Miller,General,General Inquiry,16,Veteran,Tier 2,4.02,100,0,4.5,99.11
+178,Linda Brown,Billing,General Inquiry,21,Developing,Tier 1,4.69,90.48,9.52,4.6,92.8
+164,David Johnson,Claims,General Inquiry,24,Veteran,Tier 3,4.53,83.33,16.67,5,93.84
+147,Patricia Williams,Tech Support,General Inquiry,23,Veteran,Tier 2,4.55,100,0,4.5,96.45
+140,Patricia Brown,Claims,General Inquiry,17,Developing,Tier 3,4.45,100,0,4,92.88
+107,Mary Jones,Tech Support,General Inquiry,20,Veteran,Tier 3,4.36,95,5,4.36,94.26
+126,Linda Martinez,Tech Support,General Inquiry,24,Developing,Tier 1,5.04,91.67,8.33,4.5,91.1
+109,John Martinez,Tech Support,General Inquiry,25,Veteran,Tier 2,4.35,92,8,3.83,88.82
+166,John Davis,General,General Inquiry,20,Veteran,Tier 2,4.74,90,10,4.13,88.64
+128,James Garcia,Billing,General Inquiry,20,Proficient,Tier 1,4.62,95,5,4.8,96.51
+145,John Williams,General,General Inquiry,24,Proficient,Tier 1,4.18,87.5,12.5,4.17,90.55
+152,Patricia Johnson,Tech Support,General Inquiry,18,Developing,Tier 1,4.27,94.44,5.56,5,99.54
+171,Robert Martinez,General,General Inquiry,26,Veteran,Tier 1,4.17,96.15,3.85,4.25,94.76
+114,Jennifer Davis,General,General Inquiry,19,Proficient,Tier 1,4.79,94.74,5.26,4.5,93.32
+150,John Johnson,Claims,General Inquiry,23,Proficient,Tier 3,4.75,100,0,4.3,93.96
+154,Jennifer Martinez,Billing,General Inquiry,21,Veteran,Tier 3,4.02,90.48,9.52,3.91,90.6
+176,Robert Rodriguez,General,General Inquiry,26,Veteran,Tier 3,4.56,88.46,11.54,4.17,89.09
+119,Jennifer Rodriguez,General,General Inquiry,27,Veteran,Tier 2,4.91,100,0,4.45,94.59
+155,Michael Miller,Billing,General Inquiry,21,Veteran,Tier 1,4.39,95.24,4.76,4.4,94.5
+138,Elizabeth Martinez,Tech Support,General Inquiry,24,Veteran,Tier 2,4.61,95.83,4.17,4.4,93.69
+105,Mary Garcia,Tech Support,General Inquiry,15,Proficient,Tier 1,4.45,86.67,13.33,4.5,91.55
+136,David Davis,Tech Support,General Inquiry,28,Developing,Tier 1,4.7,92.86,7.14,4.33,91.61
+162,James Johnson,Tech Support,General Inquiry,21,Developing,Tier 2,4.79,85.71,14.29,4.83,92.38
+124,Michael Brown,Billing,General Inquiry,11,Veteran,Tier 3,4.41,90.91,9.09,4.5,93.44
+110,Patricia Miller,Tech Support,General Inquiry,25,Proficient,Tier 3,4.89,96,4,3.83,88.09
+143,John Brown,General,General Inquiry,23,Veteran,Tier 1,4.95,86.96,13.04,4.27,87.75
+129,Patricia Garcia,Tech Support,General Inquiry,18,Veteran,Tier 1,4.8,83.33,16.67,3.75,82.69
+169,James Rodriguez,Tech Support,General Inquiry,19,Proficient,Tier 1,4.86,100,0,4.82,97.68
+112,Robert Jones,General,General Inquiry,19,Veteran,Tier 1,4.15,94.74,5.26,4.29,94.57
+131,Michael Rodriguez,Billing,General Inquiry,11,Nesting,Tier 3,5.77,100,0,4.67,93.45
+117,Linda Garcia,General,General Inquiry,19,Veteran,Tier 2,4.54,94.74,5.26,4.22,92.14
+157,James Jones,General,General Inquiry,18,Veteran,Tier 1,4.3,83.33,16.67,4,86.96
+100,Jennifer Williams,General,General Inquiry,27,Veteran,Tier 1,4.88,88.89,11.11,3.7,84.22
+174,John Smith,Tech Support,General Inquiry,23,Veteran,Tier 1,4.39,95.65,4.35,4.27,93.63
+139,Linda Johnson,Billing,General Inquiry,21,Veteran,Tier 1,4.7,100,0,4.46,95.48
+179,Patricia Smith,General,General Inquiry,24,Developing,Tier 2,4.97,100,0,4.5,94.71
+122,Linda Jones,Billing,General Inquiry,19,Proficient,Tier 1,4.46,100,0,4.56,97.27
+158,Elizabeth Brown,Billing,General Inquiry,18,Veteran,Tier 2,4.54,94.44,5.56,4.13,91.26
+115,Robert Miller,Claims,General Inquiry,20,Proficient,Tier 3,4.25,100,0,4.6,98.7
+153,Mary Brown,Billing,General Inquiry,21,Veteran,Tier 3,4.42,100,0,4.54,97.35
+127,James Miller,Claims,General Inquiry,28,Proficient,Tier 2,4.64,96.43,3.57,4.47,94.34
+101,Jennifer Johnson,Tech Support,General Inquiry,11,Proficient,Tier 1,4.38,90.91,9.09,4.33,92.27
+141,Elizabeth Rodriguez,Claims,General Inquiry,16,Veteran,Tier 1,4.69,87.5,12.5,4,86.84
+160,John Miller,Tech Support,General Inquiry,22,Veteran,Tier 3,4.58,95.45,4.55,4.29,92.76
+103,James Smith,Billing,General Inquiry,28,Veteran,Tier 2,4.43,100,0,4.44,96.53
+120,Elizabeth Smith,Billing,General Inquiry,19,Developing,Tier 2,4.32,100,0,4.63,98.53
+167,Michael Davis,Billing,General Inquiry,25,Proficient,Tier 2,4.37,100,0,4.78,99.49
+146,Mary Davis,Claims,General Inquiry,21,Proficient,Tier 2,5.09,100,0,4.6,95.07
+172,Mary Rodriguez,Tech Support,General Inquiry,18,Veteran,Tier 1,5.12,94.44,5.56,4.56,92.38
+165,Robert Brown,Claims,General Inquiry,26,Developing,Tier 2,4.83,88.46,11.54,4.08,87.3
+108,Elizabeth Davis,General,General Inquiry,13,Veteran,Tier 2,4.44,92.31,7.69,4,89.87
+148,Jennifer Brown,Claims,General Inquiry,32,Nesting,Tier 1,5.73,90.63,9.38,4.3,86.89
+134,Linda Miller,Billing,General Inquiry,21,Nesting,Tier 1,5.67,90.48,9.52,4,84.59
+177,David Smith,Billing,General Inquiry,15,Veteran,Tier 1,4.69,100,0,4.43,95.25
+170,Mary Johnson,General,General Inquiry,14,Developing,Tier 3,4.99,92.86,7.14,4.17,89.1
+156,Robert Garcia,Claims,General Inquiry,22,Veteran,Tier 2,4.3,95.45,4.55,4.29,94.08
+130,John Garcia,Tech Support,General Inquiry,13,Veteran,Tier 1,4.6,100,0,4.67,97.56
+113,Linda Smith,Claims,General Inquiry,28,Proficient,Tier 2,4.71,100,0,4.56,96.17
+175,John Jones,Tech Support,General Inquiry,22,Veteran,Tier 2,5.21,77.27,22.73,3.5,76.76
+142,Michael Martinez,Billing,General Inquiry,21,Veteran,Tier 1,5.05,100,0,4.78,96.62
+118,Michael Smith,Claims,General Inquiry,18,Developing,Tier 3,4.61,94.44,5.56,5,97.96
+161,James Brown,Billing,General Inquiry,15,Nesting,Tier 3,5.23,86.67,13.33,3.67,81.76
+144,David Martinez,General,General Inquiry,22,Proficient,Tier 3,4.33,100,0,4.5,97.48
+104,Elizabeth Garcia,Tech Support,General Inquiry,20,Proficient,Tier 2,4.28,100,0,4.86,100
+106,Robert Williams,Claims,General Inquiry,33,Veteran,Tier 1,4.14,93.94,6.06,4.45,95.68
+163,Patricia Martinez,Tech Support,General Inquiry,26,Veteran,Tier 1,4.58,96.15,3.85,4.2,92.36
+123,Jennifer Smith,Claims,General Inquiry,21,Veteran,Tier 2,4.34,90.48,9.52,3.8,88.03
+132,Elizabeth Jones,Claims,General Inquiry,21,Veteran,Tier 2,4.4,100,0,5,100
+149,Mary Miller,General,General Inquiry,17,Veteran,Tier 3,4.48,100,0,4.43,96.2
+111,Elizabeth Williams,General,General Inquiry,18,Veteran,Tier 2,5.07,94.44,5.56,4.8,94.51
+125,Jennifer Miller,Billing,General Inquiry,16,Veteran,Tier 1,4.51,100,0,4.33,95.28
+168,David Jones,Billing,General Inquiry,10,Proficient,Tier 3,4.94,100,0,4,90.82
+137,James Williams,General,General Inquiry,24,Proficient,Tier 1,4.7,100,0,4.5,95.78
+151,David Brown,Tech Support,General Inquiry,12,Proficient,Tier 3,4.59,91.67,8.33,4.4,92.11
+145,John Williams,General,Technical Issue,17,Proficient,Tier 1,7.76,82.35,17.65,4.8,92.01
+173,Patricia Jones,Claims,Technical Issue,19,Veteran,Tier 1,8.2,89.47,10.53,4.25,89.36
+116,Jennifer Garcia,Claims,Technical Issue,23,Proficient,Tier 2,7.61,78.26,21.74,3.62,81.32
+159,Michael Johnson,General,Technical Issue,28,Developing,Tier 2,8,96.43,3.57,4.25,92.64
+102,Michael Williams,General,Technical Issue,23,Nesting,Tier 3,9.61,69.57,30.43,2.75,66.53
+133,Patricia Rodriguez,Tech Support,Technical Issue,18,Veteran,Tier 3,6.86,72.22,27.78,3.4,79.48
+107,Mary Jones,Tech Support,Technical Issue,29,Veteran,Tier 3,8.01,89.66,10.34,4.11,88.78
+147,Patricia Williams,Tech Support,Technical Issue,29,Veteran,Tier 2,7.99,82.76,17.24,3.25,79.2
+121,Elizabeth Miller,General,Technical Issue,29,Veteran,Tier 2,8.26,86.21,13.79,3.63,82.91
+178,Linda Brown,Billing,Technical Issue,18,Developing,Tier 1,7.71,83.33,16.67,4,86.14
+164,David Johnson,Claims,Technical Issue,17,Veteran,Tier 3,7.86,64.71,35.29,2.57,66.88
+152,Patricia Johnson,Tech Support,Technical Issue,16,Developing,Tier 1,8.41,93.75,6.25,4.75,94.59
+135,Mary Williams,Billing,Technical Issue,18,Developing,Tier 3,8.24,83.33,16.67,4.13,85.81
+109,John Martinez,Tech Support,Technical Issue,21,Veteran,Tier 2,7.32,85.71,14.29,3.89,87.33
+126,Linda Martinez,Tech Support,Technical Issue,20,Developing,Tier 1,8.4,100,0,4.43,94.52
+166,John Davis,General,Technical Issue,18,Veteran,Tier 2,7.79,94.44,5.56,4,90.38
+140,Patricia Brown,Claims,Technical Issue,17,Developing,Tier 3,8.22,82.35,17.65,4.67,89.8
+171,Robert Martinez,General,Technical Issue,14,Veteran,Tier 1,8.76,71.43,28.57,3,70.89
+114,Jennifer Davis,General,Technical Issue,20,Proficient,Tier 1,8.27,80,20,4.38,86.41
+154,Jennifer Martinez,Billing,Technical Issue,12,Veteran,Tier 3,8.99,83.33,16.67,3,75.19
+128,James Garcia,Billing,Technical Issue,22,Proficient,Tier 1,8.13,81.82,18.18,3.67,81.8
+142,Michael Martinez,Billing,Technical Issue,25,Veteran,Tier 1,8.06,92,8,4.25,90.7
+125,Jennifer Miller,Billing,Technical Issue,24,Veteran,Tier 1,8.68,75,25,3.6,77.29
+156,Robert Garcia,Claims,Technical Issue,25,Veteran,Tier 2,7.29,80,20,4.17,87.35
+104,Elizabeth Garcia,Tech Support,Technical Issue,25,Proficient,Tier 2,7.64,84,16,4,86.6
+144,David Martinez,General,Technical Issue,21,Proficient,Tier 3,7.43,71.43,28.57,3.89,81.29
+130,John Garcia,Tech Support,Technical Issue,19,Veteran,Tier 1,7.72,73.68,26.32,3.57,78.82
+170,Mary Johnson,General,Technical Issue,27,Developing,Tier 3,7.86,85.19,14.81,4,86.5
+175,John Jones,Tech Support,Technical Issue,22,Veteran,Tier 2,7.53,90.91,9.09,4.11,90.58
+118,Michael Smith,Claims,Technical Issue,18,Developing,Tier 3,8.09,94.44,5.56,4.3,92.01
+161,James Brown,Billing,Technical Issue,16,Nesting,Tier 3,9.56,93.75,6.25,4.8,92.69
+149,Mary Miller,General,Technical Issue,17,Veteran,Tier 3,8.17,88.24,11.76,4.29,89.22
+123,Jennifer Smith,Claims,Technical Issue,22,Veteran,Tier 2,8.1,86.36,13.64,4,86.36
+163,Patricia Martinez,Tech Support,Technical Issue,18,Veteran,Tier 1,7.98,83.33,16.67,4.13,86.45
+106,Robert Williams,Claims,Technical Issue,18,Veteran,Tier 1,8.31,88.89,11.11,4.4,90.07
+137,James Williams,General,Technical Issue,21,Proficient,Tier 1,7.57,95.24,4.76,4.78,97.51
+111,Elizabeth Williams,General,Technical Issue,21,Veteran,Tier 2,7.78,95.24,4.76,4.6,95.51
+168,David Jones,Billing,Technical Issue,24,Proficient,Tier 3,8.12,95.83,4.17,4.13,91.1
+165,Robert Brown,Claims,Technical Issue,24,Developing,Tier 2,7.78,79.17,20.83,3.11,77.2
+108,Elizabeth Davis,General,Technical Issue,21,Veteran,Tier 2,7.47,80.95,19.05,3.25,79.87
+122,Linda Jones,Billing,Technical Issue,24,Proficient,Tier 1,7.6,75,25,4.33,85.77
+179,Patricia Smith,General,Technical Issue,24,Developing,Tier 2,8.44,95.83,4.17,4.11,90.23
+139,Linda Johnson,Billing,Technical Issue,25,Veteran,Tier 1,7.98,88,12,3.86,86.17
+153,Mary Brown,Billing,Technical Issue,19,Veteran,Tier 3,8.09,84.21,15.79,4.33,88.18
+113,Linda Smith,Claims,Technical Issue,19,Proficient,Tier 2,7.78,89.47,10.53,4,88.41
+127,James Miller,Claims,Technical Issue,33,Proficient,Tier 2,8.02,81.82,18.18,3.14,77.88
+101,Jennifer Johnson,Tech Support,Technical Issue,19,Proficient,Tier 1,8.45,78.95,21.05,3.78,80.79
+141,Elizabeth Rodriguez,Claims,Technical Issue,21,Veteran,Tier 1,8.46,80.95,19.05,3.75,81.35
+158,Elizabeth Brown,Billing,Technical Issue,20,Veteran,Tier 2,8.23,90,10,4,87.5
+172,Mary Rodriguez,Tech Support,Technical Issue,25,Veteran,Tier 1,8.3,92,8,4.09,88.87
+115,Robert Miller,Claims,Technical Issue,25,Proficient,Tier 3,7.73,88,12,3.55,84.32
+132,Elizabeth Jones,Claims,Technical Issue,18,Veteran,Tier 2,7.4,88.89,11.11,4,89.24
+160,John Miller,Tech Support,Technical Issue,21,Veteran,Tier 3,7.71,90.48,9.52,3.91,88.29
+120,Elizabeth Smith,Billing,Technical Issue,19,Developing,Tier 2,8.34,89.47,10.53,4.43,90.46
+146,Mary Davis,Claims,Technical Issue,18,Proficient,Tier 2,7.08,88.89,11.11,4.88,97.23
+103,James Smith,Billing,Technical Issue,14,Veteran,Tier 2,7.5,92.86,7.14,4.5,94.55
+177,David Smith,Billing,Technical Issue,18,Veteran,Tier 1,8.26,100,0,4.14,92.56
+134,Linda Miller,Billing,Technical Issue,24,Nesting,Tier 1,9.18,70.83,29.17,3,69.81
+162,James Johnson,Tech Support,Technical Issue,20,Developing,Tier 2,7.81,90,10,4.25,90.55
+151,David Brown,Tech Support,Technical Issue,25,Proficient,Tier 3,8.11,100,0,4.13,92.79
+105,Mary Garcia,Tech Support,Technical Issue,19,Proficient,Tier 1,7.96,89.47,10.53,4.83,94.63
+119,Jennifer Rodriguez,General,Technical Issue,17,Veteran,Tier 2,8.47,88.24,11.76,4.75,92.25
+136,David Davis,Tech Support,Technical Issue,15,Developing,Tier 1,7.81,86.67,13.33,4.4,90.42
+176,Robert Rodriguez,General,Technical Issue,22,Veteran,Tier 3,7.53,77.27,22.73,3,76.21
+110,Patricia Miller,Tech Support,Technical Issue,25,Proficient,Tier 3,7.78,92,8,4,89.43
+150,John Johnson,Claims,Technical Issue,17,Proficient,Tier 3,7.61,88.24,11.76,4.29,90.66
+167,Michael Davis,Billing,Technical Issue,15,Proficient,Tier 2,7.66,93.33,6.67,4,90.29
+124,Michael Brown,Billing,Technical Issue,21,Veteran,Tier 3,8.15,95.24,4.76,4.57,94.35
+138,Elizabeth Martinez,Tech Support,Technical Issue,20,Veteran,Tier 2,7.8,80,20,3.88,83.58
+155,Michael Miller,Billing,Technical Issue,16,Veteran,Tier 1,7.45,75,25,3.5,79.54
+169,James Rodriguez,Tech Support,Technical Issue,22,Proficient,Tier 1,7.64,81.82,18.18,3.88,84.72
+129,Patricia Garcia,Tech Support,Technical Issue,20,Veteran,Tier 1,7.91,85,15,3.88,85.3
+112,Robert Jones,General,Technical Issue,20,Veteran,Tier 1,8.35,80,20,4.33,85.89
+143,John Brown,General,Technical Issue,22,Veteran,Tier 1,8.09,68.18,31.82,3.67,76.45
+100,Jennifer Williams,General,Technical Issue,24,Veteran,Tier 1,8.06,83.33,16.67,3.4,80.43
+174,John Smith,Tech Support,Technical Issue,26,Veteran,Tier 1,8.07,100,0,4.3,94.28
+157,James Jones,General,Technical Issue,25,Veteran,Tier 1,7.97,96,4,4.43,93.96
+117,Linda Garcia,General,Technical Issue,16,Veteran,Tier 2,7.02,87.5,12.5,4,89.86
+131,Michael Rodriguez,Billing,Technical Issue,20,Nesting,Tier 3,9.65,85,15,4.2,84.24
+148,Jennifer Brown,Claims,Technical Issue,14,Nesting,Tier 1,8.94,85.71,14.29,3.43,79.66
